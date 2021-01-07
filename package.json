@@ -1,6 +1,6 @@
 {
   "name": "altphotoswipe",
-  "version": "1.0",
+  "version": "4.1.3",
   "engines": {
     "node": ">= 0.8.0"
   },
