@@ -1,6 +1,6 @@
 {
-  "name": "PhotoSwipe",
-  "title": "Photoswipe",
+  "name": "AltPhotoSwipe",
+  "title": "AltPhotoswipe",
   "description": "",
   "version": "4.1.3",
   "homepage": "http://photoswipe.com",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimsemenov/PhotoSwipe.git"
+    "url": "https://github.com/critcat/PhotoSwipe.git"
   },
-  "bugs": "https://github.com/dimsemenov/PhotoSwipe/issues",
+  "bugs": "https://github.com/critcat/PhotoSwipe/issues",
   "keywords": ["photoswipe","gallery","touch","mobile"],
   "licenses": [
     {
